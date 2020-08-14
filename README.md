@@ -1,6 +1,6 @@
 Shalom, I'm Binyamin
 
-I'm a college student, web developer, and Jew from Baltimore, Maryland. I'd like to expand my network, so please [get in touch](https://github.com/b3u/b3u/issues/new).
+I'm a college student, web developer, and Jew from Baltimore, Maryland. I'd like to expand my network, so please [get in touch](https://github.com/binyamin/binyamin/issues/new).
 
 :1st_place_medal: I'm proud of [my personal website](https://binyam.in)\
 :person_in_manual_wheelchair: I'm working as a lifeguard this summer, at [a camp for children who have special-needs](https://camphasc.org)\
