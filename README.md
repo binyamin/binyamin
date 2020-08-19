@@ -3,7 +3,7 @@ Shalom, I'm Binyamin
 I'm a college student, web developer, and Jew from Baltimore, Maryland. I'd like to expand my network, so please [get in touch](https://github.com/binyamin/binyamin/issues/new).
 
 :1st_place_medal: I'm proud of [my personal website](https://binyam.in)\
-:person_in_manual_wheelchair: I'm working as a lifeguard this summer, at [a camp for children who have special-needs](https://camphasc.org)\
+:person_in_manual_wheelchair: I was working as a lifeguard this summer, at [a camp for children who have special-needs](https://camphasc.org)\
 :no_smoking: I'm being careful with my technology usage.
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a-coffee-fa810d?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoff.ee/binyamin)
