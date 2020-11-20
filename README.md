@@ -3,7 +3,7 @@ Shalom, I'm Binyamin
 I'm a college student, web developer, and Jew from Baltimore, Maryland. I'd like to expand my network, so please [get in touch](https://github.com/binyamin/binyamin/issues/new).
 
 :1st_place_medal: I'm proud of [my personal website](https://binyam.in)\
-:jack_o_lantern: This is my first [Hacktoberfest](https://hacktoberfest.digitalocean.com) as a maintainer! Check out [eleventy-garden](https://github.com/binyamin/eleventy-garden)\
+:jack_o_lantern: This was my first [Hacktoberfest](https://hacktoberfest.digitalocean.com) as a maintainer! Check out [eleventy-garden](https://github.com/binyamin/eleventy-garden)\
 :brain: I'm learning in public with [my digital garden](https://binyam.in/notes).
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a-coffee-fa810d?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoff.ee/binyamin)
